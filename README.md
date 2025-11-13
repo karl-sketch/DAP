@@ -1,7 +1,7 @@
  I'll explain the purpose of each main section and specific function in the HTML, CSS, and JavaScript.
 I'll explain on how each piece contributes to the overall app.
             (READ AND UNDERSTAND) This is the proccess each line po and purposes tapos how it works so read and understand it. THANK YOU!
-            >Click README.md and click edit to read easily.<
+            >Click edit or pen icon to read easily.<
 
 
 (HTML sets up the two main "screens" and the two pop-up forms.)
